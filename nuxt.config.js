@@ -10,7 +10,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Calculator made with Vue' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/calcIcon.png' }
     ]
   },
   /*
